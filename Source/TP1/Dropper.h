@@ -22,13 +22,13 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-	UPROPERTY(EditAnywhere,BlueprintReadWrite,Category="Steering")float MaxSpeed=600.f;
-	UPROPERTY(EditAnywhere,BlueprintReadWrite,Category="Steering")float MaxForce=200.f;
-	UPROPERTY(EditAnywhere, BlueprintReadWrite , Category="Spawning")float MinSpawnInterval=0.0f;
-	UPROPERTY(EditAnywhere, BlueprintReadWrite , Category="Spawning")float MaxSpawnInterval=2.0f;
-	UPROPERTY(EditAnywhere, BlueprintReadWrite , Category="Terrain")float MinMap=32130.0f;
-	UPROPERTY(EditAnywhere, BlueprintReadWrite ,Category="Terrain")float MaxMap=35750.0f;
-	UPROPERTY(EditAnywhere,BlueprintReadWrite,Category="Terrain")int NBMaxCube=4;
+	UPROPERTY(EditAnywhere,BlueprintReadWrite,Category="Steering")float MaxSpeed=2000.f;
+	UPROPERTY(EditAnywhere,BlueprintReadWrite,Category="Steering")float MaxForce=1000.f;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite , Category="Spawning")float MinSpawnInterval=0.3f;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite , Category="Spawning")float MaxSpawnInterval=3.0f;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite , Category="Terrain")float MinMap=32320.0f;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite ,Category="Terrain")float MaxMap=35610.0f;
+	UPROPERTY(EditAnywhere,BlueprintReadWrite,Category="Terrain")int NBMaxCube=50;
 	
 private:
 	FTimerHandle SpawnTimerHandle;

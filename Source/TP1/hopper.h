@@ -1,10 +1,11 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
 #pragma once
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include "hopper.generated.h"
+
+// Forward declaration pour éviter les erreurs de compilation
+class AFallingCube;
 
 UCLASS()
 class TP1_API Ahopper : public AActor
@@ -12,15 +13,23 @@ class TP1_API Ahopper : public AActor
 	GENERATED_BODY()
 	
 public:	
-	// Sets default values for this actor's properties
 	Ahopper();
 
 protected:
-	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
 public:	
-	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Steering")float MaxSpeed = 2000.f;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Steering")float MaxForce = 1000.f;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Terrain")float MinMap = 32130.0f;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Terrain")float MaxMap = 35750.0f;
+
+private:
+	FVector Velocity;
+
+	FVector SeekY(const FVector& vTarget);
+
+	AFallingCube* GetClosestCube();
 };
