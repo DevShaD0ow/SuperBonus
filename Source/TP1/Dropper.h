@@ -29,13 +29,16 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite , Category="Terrain")float MinMap=32320.0f;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite ,Category="Terrain")float MaxMap=35610.0f;
 	UPROPERTY(EditAnywhere,BlueprintReadWrite,Category="Terrain")int NBMaxCube=50;
-	
+	UFUNCTION(BlueprintCallable, Category="Dropper")
+	int GetNbCube() const { return nbCube; }
+
 private:
 	FTimerHandle SpawnTimerHandle;
 	FVector Velocity;
 	FVector Target;
-	INT nbCube;
 	FVector Seek(const FVector& vTarget);
+	static int nbCube;
+
 	void ChooseNewTarget();
 	void SpawnCube();
 	void StartRandomSpawnTimer();

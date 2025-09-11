@@ -5,6 +5,7 @@
 #include "TimerManager.h" // pour FTimerHandle
 #include "FallingCube.h"
 
+int ADropper::nbCube = 0;
 // Sets default values
 ADropper::ADropper()
 {
@@ -15,8 +16,8 @@ ADropper::ADropper()
 // Called when the game starts or when spawned
 void ADropper::BeginPlay()
 {
-	nbCube=0;
 	Super::BeginPlay();
+	ADropper::nbCube = 0;
 	Velocity = FVector::ZeroVector;
 	ChooseNewTarget();
 	StartRandomSpawnTimer();
@@ -79,13 +80,14 @@ void ADropper::StartRandomSpawnTimer()
 
 void ADropper::SpawnCube()
 {
-	if (nbCube!=NBMaxCube)
+	if (ADropper::nbCube!=NBMaxCube)
 	{
 		FVector SpawnLocation = GetActorLocation() + FVector(0.f, 0.f, -100.f);
 		FActorSpawnParameters SpawnParams;
 		GetWorld()->SpawnActor<AFallingCube>(AFallingCube::StaticClass(),SpawnLocation,FRotator::ZeroRotator,SpawnParams);
-		nbCube++;
+		ADropper::nbCube++;
 		StartRandomSpawnTimer();
 	}
 }
+
 

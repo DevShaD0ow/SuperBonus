@@ -14,8 +14,76 @@
   <component name="ChangeListManager">
     <list default="true" id="5d8f7ac1-d218-4cc0-a305-1d0a6cb07bae" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TP1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/BluePrints/BP_Dropper.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BluePrints/BP_Dropper.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/E/FH/Y4M8ZOVVHAA7GR3Z985VBL.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/E/FH/Y4M8ZOVVHAA7GR3Z985VBL.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/BluePrints/BP_Hopper.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BluePrints/BP_Hopper.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/SuperBonus.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/SuperBonus.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/0/7S/PODWO2SR6F7RAC7DL4D5DS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/0/E0/JDYJ8DG2JEFCCFP95ASR5T.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/0/S8/SCDJW10F4NR7VJFYY4F6O7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/1/30/BFIHCDSBPMBZ7CM75AIA9Z.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/1/46/0KL0JL7EHQTXG8J9682PJL.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/1/5W/M7FFDQC5EFPC98N3JLHUSA.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/1/DV/5V5GAQX6QE2GJ6MFUJO6MW.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/1/IW/Y84HTRKBZEM3B41W07FW1I.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/1/J6/GUPH887PCYMHPP8SDR2E22.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/1/Q7/30H2DFZQ0Y57FPH0HXVI2A.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/2/7B/THWMTRHVD2N0884LVQRZXM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/2/89/6LPX8WE7HNZH6A11EBSNIX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/2/LZ/M0Z3QWSTWYCEMJPERBEWLC.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/2/XP/25V2VMR1MARSVP75ZKZ2XY.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/3/5Y/AOHV2T7TTUAV7ALDG2TU54.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/3/B2/TT6B5IY98VSAZNAV6ORLXT.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/3/DZ/NDOOJTZF05R4RPU93U715E.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/3/DZ/NDOOJTZF05R4RPU93U715E.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/3/EF/MBA3PVNQBLSCLHE6J065RR.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/3/OU/SYQNZEB6LMNLR7Z6I8A0X2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/3/SP/IF47XETKBNFSVM6LARYSA6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/3/TW/TRRV0I16SIL0IRSBV13ORH.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/4/CL/KOMI3L55GO1FF6LYPYFW3C.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/4/GC/9HM00RUOCWLW5P89FUYIVU.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/4/L7/MKRPF6CSDGT08B3NTE3MCQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/4/RV/QS5HH8C3FPYP8PAGD7KADU.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/4/UL/FPEMP5E9L28B3C8R4WMH78.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/5/73/0PQDVKRH6ARYORRL45Y3EL.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/5/KR/UMUBUO41KI9N054Q47MWKQ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/5/KR/UMUBUO41KI9N054Q47MWKQ.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/5/MP/6FGC148W7FH443S2PHO957.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/5/MR/DV19PHCTEXM8B9TULZUU69.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/5/QB/IHNUFFLWS93OX6PWJ3ZQ9T.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/5/RG/UZBO1C92L4XD1ZKIROJHH0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/5/XY/TDFPUP6KDZ0RWIQSGWM1K2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/5/ZL/EDP2JLLSKM0HHZZXX9RQD7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/7/21/4JL6B32ZARBP79JWL0QN01.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/7/BL/3530DX9HQLZD620KGSQZCC.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/7/LD/FDCUDGRF4U4DZOXFFMHNZ7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/7/TV/751OKLGU9AW6XE38VFLPGM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/7/XQ/WWZAP7Z5GE0CX3OQDUC30H.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/8/9I/2FF6LUYCDJ2Z8WOECIMPM6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/8/BS/FRF0QM7RJB8V6EVK5GLQBW.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/8/JM/LHKG1D5CX01G5NGTPUO94P.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/8/K2/KMTB2EI78ND96TO3UMAJLB.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/8/KQ/BKBMLX21OYWRK2L7VB5CPC.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/8/MQ/DJM54I72DVWKVIQ5LS9C6E.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/8/UP/0Y7BAZ55ZM7JGRUW5VAPWW.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/9/2L/MG2JVVQ7RSZEJRWQQXF67O.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/9/B7/SS2GCZW2E0ONZIRAAE07YH.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/9/M1/RGZQHOL8ZH6LQS4WSAOFKL.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/A/Y7/H6Q4V8M86YXTDF3W0SZVG1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/B/9B/8LJA5XJU4WL7RPF9DHN8QK.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/B/BH/4M5JZW5I9A2FCD27RKMU1J.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/B/PH/3PNKWQ8JXVE8HRT549EISM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/B/QM/GWZYMXVK706500KFPE7CPU.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/B/VD/5GINWKKDL31VICLF1PJT2S.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/B/XW/YYFMFPHFK8V2II5B3QM1DG.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/C/YC/UP4A8OEUNDL18OU29PQEZ1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/C/YR/Y3D05KBT60Q05Y99UV96U5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/D/AW/XJD4A691TDAUTC5KT2ZY1F.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/D/DQ/S44MNY822BL2SO3SPDHN5B.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/D/HV/MS6K2JHZ25P3N00LXQNXR4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/D/KN/BOIA6RGRP9846UML52CS4D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/D/Z3/C2KW7PRY3AQ8AQCSWHMDVS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/E/AL/8VNFHB7L547OUZT02EER33.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/E/VZ/AIVHREL3P5NSUZA8G630HK.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/E/Z7/B0UA6UAD4U2U4IO8XDJPKS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/SuperBonus/F/40/RBHKEGRMR5GN23MTTE4QY0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TP1/Dropper.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TP1/Dropper.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TP1/Dropper.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TP1/Dropper.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TP1/hopper.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TP1/hopper.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TP1/hopper.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TP1/hopper.h" afterDir="false" />
@@ -184,6 +252,7 @@
       <workItem from="1757557777706" duration="594000" />
       <workItem from="1757605172677" duration="4754000" />
       <workItem from="1757611388391" duration="1195000" />
+      <workItem from="1757613856213" duration="8948000" />
     </task>
     <servers />
   </component>
